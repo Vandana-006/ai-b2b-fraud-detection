@@ -3,6 +3,7 @@
 # 🛡️ Enterprise AI B2B Fraud Detection Engine
 ### *Graph Network Analytics, Velocity Metrics & Explainable AI for Corporate Risk Mitigation*
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://vandana-006-ai-b2b-fraud-detection-appdashboard-gwb515.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-FastAPI%20%7C%20Streamlit-green.svg)](https://fastapi.tiangolo.com/)
 [![ML Model](https://img.shields.io/badge/ML-LightGBM%20%7C%20SHAP-orange.svg)](https://lightgbm.readthedocs.io/)
