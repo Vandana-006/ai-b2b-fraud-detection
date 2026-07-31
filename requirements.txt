@@ -1,0 +1,10 @@
+pandas
+numpy
+networkx
+scikit-learn
+lightgbm
+shap
+faker
+streamlit
+matplotlib
+seaborn
